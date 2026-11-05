@@ -1,4 +1,4 @@
-from personaje import Personaje
+from herencia.java.phyton.personaje import Personaje
 
 heroe = Personaje("Arturo", 1, 100, 100, 25)
 
